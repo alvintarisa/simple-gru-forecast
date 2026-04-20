@@ -1,7 +1,7 @@
 # simple-gru-forecast
 Performing simple forecasting using public domain dataset of Brent crude oil prices using the Gated Recurrent Unit (GRU) method.
 
-![The results of this case study revealed that the system is quite capable of replicating existing data during the GRU learning process. The following illustrates the replication of training data in the GRU method.](result/[Persentase Training_ 0.9; Hidden Layer_20; Drop Rate_0.1; Number of Epoch_100] Forecast after denormalization.png)
+![The results of this case study revealed that the system is quite capable of replicating existing data during the GRU learning process. The following illustrates the replication of training data in the GRU method.](result/Forecast.png] Forecast after denormalization.png)
 
 ![Using the trained method, the system will forecast five days into the future based on the available dataset. The image below shows that the system is quite capable of predicting crude oil prices.](result/[Persentase Training_ 0.9; Hidden Layer_20; Drop Rate_0.1; Number of Epoch_100] Forecasted value next 5 day.png)
 
